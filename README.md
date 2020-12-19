@@ -2,8 +2,6 @@
 A conventional double PI closed loop(speed loop, current loop)  permanent magnet synchronous motor control simulation based on Matlab Simulink.
 The motor electromechanical parameters mechanical parameters  and the control parameters can be set in the ParameterSetting.m files.
 
-
-
 PS:
 
 1.This simulation is based on one 131kW interior permanent magnet synchronous motors.
