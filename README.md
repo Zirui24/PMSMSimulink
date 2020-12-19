@@ -9,5 +9,3 @@ PS:
 
 2.All mathematical models are built based on mathematical models, and the simulation of multiple three-phase motors can be built by copying the submodules of multiple motors.
 
-
-
